@@ -8,7 +8,7 @@ If you're having similar woes, feel free to use this.
 Notes
 =====
 
-You'll need to save this as an Application and be sure to check the "Stay Open" option so that it can run when specified.
+If you want to modify this, you'll need to save the AppleScript as an Application and be sure to check the "Stay Open" option so that it can run when specified.
 
 It is currently set for 1 hour, this can be altered by changing the value of the `run_timer` variable, which is in seconds.
 
